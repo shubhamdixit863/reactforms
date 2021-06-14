@@ -8,6 +8,6 @@ function App() {
       <RegistrationForm/>
     </div>
   );
-}
+//sir plz aproove my code
 
 export default App;
